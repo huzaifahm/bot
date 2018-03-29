@@ -1,0 +1,14 @@
+{
+  "name": "Bot",
+  "version": "0.0.1",
+  "description": "Custom bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tank#5011",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  }
+}
